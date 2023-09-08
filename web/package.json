@@ -11,6 +11,8 @@
     ]
   },
   "dependencies": {
+    "@heroicons/react": "^2.0.18",
+    "@mantine/modals": "^6.0.20",
     "@redwoodjs/forms": "6.1.1",
     "@redwoodjs/router": "6.1.1",
     "@redwoodjs/web": "6.1.1",
@@ -19,6 +21,9 @@
     "react-dom": "18.2.0"
   },
   "devDependencies": {
+    "@emotion/react": "^11.11.1",
+    "@mantine/core": "^6.0.20",
+    "@mantine/hooks": "^6.0.20",
     "@redwoodjs/vite": "6.1.1"
   }
 }
